@@ -1,0 +1,23 @@
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\bin\Debug\bioskop.exe.config
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\bin\Debug\bioskop.exe
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\bin\Debug\bioskop.pdb
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.csprojAssemblyReference.cache
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.Bioskop.resources
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.Properties.Resources.resources
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.csproj.GenerateResource.cache
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.exe
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.pdb
+C:\Users\tamar\Desktop\Neda Vanredno\bioskop1\bioskop\obj\Debug\bioskop.Opis.resources
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\bin\Debug\bioskop.exe.config
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\bin\Debug\bioskop.exe
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\bin\Debug\bioskop.pdb
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.csproj.AssemblyReference.cache
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.Bioskop.resources
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.Opis.resources
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.Properties.Resources.resources
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.csproj.GenerateResource.cache
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.csproj.CoreCompileInputs.cache
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.exe
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.pdb
+C:\Users\tijan\Desktop\bioskop1-main\bioskop1-main\bioskop\obj\Debug\bioskop.Trailer.resources
