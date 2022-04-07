@@ -2541,7 +2541,7 @@ namespace bioskop.Bioskop2DataSetTableAdapters {
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[film] ([naziv], [zanr], [idOpisa]) VALUES (@naziv, @zanr, @idO" +
-                "pisa);\r\nSELECT id, naziv, zanr, idOpisa FROM film WHERE (id = SCOPE_IDENTITY())";
+                "pisa);\nSELECT id, naziv, zanr, idOpisa FROM film WHERE (id = SCOPE_IDENTITY())";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@naziv", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "naziv", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@zanr", global::System.Data.SqlDbType.VarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "zanr", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -3370,8 +3370,8 @@ SELECT id, punNaziv, trajanje, glumci, sinopsis, trailer, ocena FROM opis WHERE 
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[sala1] ([terminPocetak], [terminKraj], [idFilma]) VALUES (@ter" +
-                "minPocetak, @terminKraj, @idFilma);\r\nSELECT id, terminPocetak, terminKraj, idFil" +
-                "ma FROM sala1 WHERE (id = SCOPE_IDENTITY())";
+                "minPocetak, @terminKraj, @idFilma);\nSELECT id, terminPocetak, terminKraj, idFilm" +
+                "a FROM sala1 WHERE (id = SCOPE_IDENTITY())";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@terminPocetak", global::System.Data.SqlDbType.Time, 0, global::System.Data.ParameterDirection.Input, 0, 0, "terminPocetak", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@terminKraj", global::System.Data.SqlDbType.Time, 0, global::System.Data.ParameterDirection.Input, 0, 0, "terminKraj", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -3763,8 +3763,8 @@ SELECT id, terminPocetak, terminKraj, idFilma FROM sala1 WHERE (id = @id)";
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
             this._adapter.InsertCommand.CommandText = "INSERT INTO [dbo].[sala2] ([terminPocetak], [terminKraj], [idFilma]) VALUES (@ter" +
-                "minPocetak, @terminKraj, @idFilma);\r\nSELECT id, terminPocetak, terminKraj, idFil" +
-                "ma FROM sala2 WHERE (id = SCOPE_IDENTITY())";
+                "minPocetak, @terminKraj, @idFilma);\nSELECT id, terminPocetak, terminKraj, idFilm" +
+                "a FROM sala2 WHERE (id = SCOPE_IDENTITY())";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@terminPocetak", global::System.Data.SqlDbType.Time, 0, global::System.Data.ParameterDirection.Input, 0, 0, "terminPocetak", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@terminKraj", global::System.Data.SqlDbType.Time, 0, global::System.Data.ParameterDirection.Input, 0, 0, "terminKraj", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
